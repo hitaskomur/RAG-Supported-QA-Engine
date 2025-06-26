@@ -24,7 +24,7 @@ This project is a Streamlit application that allows users to ask questions based
 1.  Clone this repository:
 
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/hitaskomur/RAG-Supported-QA-Engine>
     cd <project_directory>
     ```
 
